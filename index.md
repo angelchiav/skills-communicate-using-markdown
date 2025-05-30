@@ -6,3 +6,7 @@ I'm so excited about making commits in projects in GitHub!
 
 ```python
 print("Hello World!")
+```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
